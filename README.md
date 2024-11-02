@@ -1,8 +1,8 @@
-# tracking_app_mock
+# Tracking APP Mock Devices
 
 Tracking App Mock Devices
 
-## Getting Started
+## Application Details
 
 This web application includes a way to simulate iot devices and dinamically change the location of this devices
 
