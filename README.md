@@ -1,16 +1,13 @@
 # tracking_app_mock
 
-A new Flutter project.
+Tracking App Mock Devices
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This web application includes a way to simulate iot devices and dinamically change the location of this devices
 
-A few resources to get you started if this is your first Flutter project:
+This mock devices can: 
+ - send data to the server while turned on
+ - listen for pings from the server
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1498" alt="VirtualDevices" src="https://github.com/user-attachments/assets/d46875bc-2b78-4f77-b910-b55c57f62702">
